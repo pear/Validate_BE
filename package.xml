@@ -64,7 +64,6 @@ Bug #15167 - Unit test failures</notes>
     <tasks:replace from="@DATADIR@" to="data_dir" type="pear-config" />
    </file>
    <file baseinstalldir="/" md5sum="7073f9a84fa6da71e7a505a777dda302" name="LICENSE" role="doc" />
-   <file baseinstalldir="/" md5sum="3a8d37a072f418308635d61c853fe1f6" name="package_BE.xml" role="data" />
   </dir>
  </contents>
  <dependencies>
