@@ -1,7 +1,7 @@
 *Validate_BE*
 
 This package was begin on May 2005
-Christophe Gesché // moosh@claroline.net
+Christophe Gesché // moosh@php.net
 With help of coders of other Validate_FOO packages
 
 
