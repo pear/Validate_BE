@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Validate_BE": "./"
+            "Validate": "./"
         }
     },
     "description": "More info available on: http://pear.php.net/package/Validate_BE",
@@ -33,7 +33,8 @@
     },
     "type": "library",
     "require": {
-        "pear/pear_exception": "*"
+        "pear/pear_exception": "*",
+        "pear/validate": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
