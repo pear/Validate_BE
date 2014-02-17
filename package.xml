@@ -15,7 +15,7 @@
  <lead>
   <name>Christophe Gesché</name>
   <user>moosh</user>
-  <email>moosh@claroline.net</email>
+  <email>moosh@php.net</email>
   <active>yes</active>
  </lead>
  <lead>
@@ -28,7 +28,7 @@
   <name>Frederic Minne</name>
   <user>zefredz</user>
   <email>zefredz@php.net</email>
-  <active>yes</active>
+  <active>no</active>
  </helper>
  <date>2009-03-23</date>
  <time>01:29:43</time>
