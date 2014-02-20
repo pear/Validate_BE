@@ -1,0 +1,42 @@
+{
+    "authors": [
+        {
+            "email": "moosh@claroline.net",
+            "name": "Christophe Gesch\u00e9",
+            "role": "Lead"
+        },
+        {
+            "email": "toggg@php.net",
+            "name": "bertrand Gugger",
+            "role": "Lead"
+        },
+        {
+            "email": "zefredz@php.net",
+            "name": "Frederic Minne",
+            "role": "Helper"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Validate": "./"
+        }
+    },
+    "description": "More info available on: http://pear.php.net/package/Validate_BE",
+    "include-path": [
+        "./"
+    ],
+    "license": "BSD Style",
+    "name": "pear/validate_be",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Validate_BE",
+        "source": "https://github.com/pear/Validate_BE"
+    },
+    "type": "library",
+    "require": {
+        "pear/pear_exception": "*",
+        "pear/validate": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
