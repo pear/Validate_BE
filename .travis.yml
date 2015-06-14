@@ -5,6 +5,7 @@ php:
   - 5.4
 sudo: false
 install:
+ - pear config-set preferred_state beta
  - pear install Validate
 script:
   - pear run-tests -r tests/
