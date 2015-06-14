@@ -3,11 +3,11 @@
  <name>Validate_BE</name>
  <channel>pear.php.net</channel>
  <summary>Validation class for Belgium</summary>
- <description>Package containes locale validation for Belgium such as:
+ <description>Package contains locale validation for Belgium such as:
  * Postal Code
  * Bank Account Number
  * Structured Bank Transfer message
-   (Nationnal transfer from an bank account to another)
+   (National transfer from an bank account to another)
  * VAT
  * Natitonal ID
  * Identity Card Number (not ready)
