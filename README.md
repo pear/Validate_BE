@@ -1,5 +1,7 @@
 # Validate_BE
 
+[![Join the chat at https://gitter.im/pear/Validate_BE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pear/Validate_BE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The package offers some methods to validate specific data for Belgium
 
 Every module of Validate follows the same philosophy. 
